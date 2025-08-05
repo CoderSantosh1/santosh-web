@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I think I'm Funny**
 
 
-<a href="https://app.daily.dev/santoshcoder"><img src="https://api.daily.dev/devcards/v2/EaAOUEuOiOYZscNNJuGot.png?type=default&r=fbp" width="356" alt="MD Mohi Uddin's Dev Card"/></a>
+<a href="https://app.daily.dev/santoshcoder"><img src="https://api.daily.dev/devcards/v2/DULLZgsiouFTfLOeilf4d.png?type=default&r=0bk" width="356" alt="Santosh's Dev Card"/></a>
 <img src="https://media.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif" width="356" alt="im funny 😊😁"/>
 
 <h3 align="left">Connect with me:</h3>

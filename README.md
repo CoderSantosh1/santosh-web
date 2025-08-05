@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **  DBMS, SQL, PostgreSQL, Prisma, and more to master the technologies that are shaping the future.**
 
 - 👨‍💻 All of my projects are available at .......   
- **https://mohiuddin-portfoliov2.netlify.app/**
+ **https://my-profile-five-blush.vercel.app/**
 
 - 💬 Ask me about **MERN**
 
